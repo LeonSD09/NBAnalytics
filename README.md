@@ -1,7 +1,7 @@
 # Sports Stats Projects
 Playing around with analyzing sports data.
 
-## NBA
+## [NBA](https://github.com/leondangio/Sports-Stats/tree/master/NBA)
 
 ## MLB (TBD)
 
